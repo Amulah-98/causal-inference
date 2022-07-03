@@ -1,0 +1,9 @@
+,0
+0,radius_mean
+1,texture_mean
+2,perimeter_mean
+3,compactness_mean
+4,concave points_mean
+5,smoothness_se
+6,radius_worst
+7,fractal_dimension_worst
